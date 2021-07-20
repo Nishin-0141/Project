@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.3-191112-2.6 (utf8.sjis) (TeX Live 2020/W32TeX) (preloaded format=platex 2021.2.28)  20 JUL 2021 17:16
+This is e-pTeX, Version 3.14159265-p3.8.3-191112-2.6 (utf8.sjis) (TeX Live 2020/W32TeX) (preloaded format=platex 2021.2.28)  20 JUL 2021 22:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -488,6 +488,13 @@ vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
  []
 
 [19]
+Overfull \hbox (34.52086pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/10 Defeating ``COVID-19'' \JY1/hmc/m/n/10 ～ \OT1/cmr/m/n/10 Disco
+vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
+/n/10 ～ 
+ []
+
+[20]
 Underfull \hbox (badness 6808) in paragraph at lines 139--140
 []\JY1/hmc/m/n/10 第 \OT1/cmr/m/n/10 2 \JY1/hmc/m/n/10 部 基本デ ータと政策動向
 \OT1/cmr/m/n/10 , \JY1/hmc/m/n/10 総務省\OT1/cmr/m/n/10 , 2021/7/10 \JY1/hmc/m/
@@ -508,7 +515,7 @@ vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
 /n/10 ～ 
  []
 
-[20
+[21
 
 
 
@@ -527,4 +534,4 @@ Here is how much of TeX's memory you used:
  934 hyphenation exceptions out of 8191
  68i,5n,74p,1559b,1030s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (26 pages, 101964 bytes).
+Output written on main.dvi (27 pages, 105372 bytes).
