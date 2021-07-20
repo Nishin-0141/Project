@@ -258,14 +258,14 @@ INPUT ./images/newspaper1.png
 INPUT ./images/newspaper1.png
 INPUT images/newspaper1.png
 INPUT extractbb -B cropbox -O images/newspaper1.png
-INPUT ./images/newspaper2.png
-INPUT ./images/newspaper2.png
-INPUT images/newspaper2.png
-INPUT extractbb -B cropbox -O images/newspaper2.png
-INPUT ./images/newspaper3.png
-INPUT ./images/newspaper3.png
-INPUT images/newspaper3.png
-INPUT extractbb -B cropbox -O images/newspaper3.png
+INPUT ./images/newspaper2.jpg
+INPUT ./images/newspaper2.jpg
+INPUT images/newspaper2.jpg
+INPUT extractbb -B cropbox -O images/newspaper2.jpg
+INPUT ./images/newspaper3.jpg
+INPUT ./images/newspaper3.jpg
+INPUT images/newspaper3.jpg
+INPUT extractbb -B cropbox -O images/newspaper3.jpg
 INPUT ./goal.tex
 INPUT ./goal.tex
 INPUT ./goal.tex
