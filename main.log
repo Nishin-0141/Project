@@ -1,0 +1,507 @@
+This is e-pTeX, Version 3.14159265-p3.8.3-191112-2.6 (utf8.sjis) (TeX Live 2020/W32TeX) (preloaded format=platex 2021.2.28)  20 JUL 2021 14:44
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+pLaTeX2e <2020-10-01>+2 (based on LaTeX2e <2020-10-01> patch level 4)
+L3 programming layer <2021-02-18>
+(c:/texlive/2020/texmf-dist/tex/platex/jsclasses/jsbook.cls
+Document Class: jsbook 2020/10/09 jsclasses (okumura, texjporg)
+\jsc@mpt=\dimen154
+\jsc@mmm=\dimen155
+\jsc@smallskipamount=\skip47
+LaTeX Info: Redefining \textmc on input line 502.
+LaTeX Info: Redefining \textgt on input line 504.
+\symmincho=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY1/mc/m/n --> JY1/gt/m/n on input line 566.
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 760.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 760.
+\fullwidth=\dimen156
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 7.68799pt on input line 921.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 7.68799pt on input line 921.
+\c@part=\count178
+\c@chapter=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\jsc@tocl@width=\dimen157
+\@lnumwidth=\dimen158
+\bibindent=\dimen159
+(c:/texlive/2020/texmf-dist/tex/platex/jsclasses/jslogo.sty
+Package: jslogo 2019/07/25 okumura, texjporg
+LaTeX Info: Redefining \TeX on input line 82.
+LaTeX Info: Redefining \LaTeX on input line 135.
+LaTeX Info: Redefining \LaTeXe on input line 188.
+)
+\heisei=\count187
+) (./funpro.sty
+Package: funpro 2004/11/25 v2.0 Thor
+
+(c:/texlive/2020/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (./okumacro.sty
+Package: okumacro 2004/08/23 okumura
+\@scw=\dimen160
+\scb@x=\box64
+\EXAMPLEWIDTH=\dimen161
+\shaderule=\dimen162
+)
+(c:/texlive/2020/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks16
+\verbatim@line=\toks17
+\verbatim@in@stream=\read2
+)
+\fullwidth=\dimen163
+\@members=\count188
+)
+(c:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(c:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvipdfmx.def on input line 105.
+
+(c:/texlive/2020/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+File: dvipdfmx.def 2020/08/26 v5.0h Graphics/color driver for dvipdfmx
+))
+\Gin@req@height=\dimen164
+\Gin@req@width=\dimen165
+)
+(c:/texlive/2020/texmf-dist/tex/platex/japanese-otf-uptex/otf.sty
+Package: otf 2019/04/01 v1.7b8 psitau, u0.26 ttk
+LaTeX Font Info:    Redeclaring symbol font `mincho' on input line 322.
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `normal'
+(Font)                  JY1/mc/m/n --> JY1/hmc/m/n on input line 322.
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY1/gt/m/n --> JY1/hmc/m/n on input line 322.
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY1/hmc/m/n --> JY1/hmc/bx/n on input line 324.
+LaTeX Font Info:    Redeclaring math alphabet \mathgt on input line 325.
+LaTeX Font Info:    Overwriting math alphabet `\mathgt' in version `normal'
+(Font)                  JY1/gt/m/n --> JY1/hgt/m/n on input line 325.
+LaTeX Font Info:    Overwriting math alphabet `\mathgt' in version `bold'
+(Font)                  JY1/gt/m/n --> JY1/hgt/m/n on input line 325.
+LaTeX Font Info:    Overwriting math alphabet `\mathgt' in version `bold'
+(Font)                  JY1/hgt/m/n --> JY1/hgt/bx/n on input line 326.
+
+(c:/texlive/2020/texmf-dist/tex/platex/japanese-otf/ajmacros.sty
+Package: ajmacros 2019/04/01 21:00 iNOUE Koich! <inoue@ma.ns.musashi-tech.ac.jp
+>
+\@tempcntc=\count189
+\@tempcntd=\count190
+\@tempcnte=\count191
+\@tempcntf=\count192
+))
+LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 74.
+LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 74.
+
+(c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
+File: l3backend-dvips.def 2021-02-18 L3 backend support: dvips
+\l__pdf_internal_box=\box65
+\g__pdf_backend_object_int=\count193
+\l__pdf_backend_content_box=\box66
+\l__pdf_backend_model_box=\box67
+\g__pdf_backend_annotation_int=\count194
+\g__pdf_backend_link_int=\count195
+\g__pdf_backend_link_sf_int=\count196
+)
+No file main.aux.
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
+(Font)              scaled to size 13.31541pt on input line 77.
+LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
+(Font)              scaled to size 13.31541pt on input line 77.
+LaTeX Font Info:    Font shape `JT1/hgt/m/n' will be
+(Font)              scaled to size 13.31541pt on input line 77.
+LaTeX Font Info:    Font shape `JY1/hgt/m/n' will be
+(Font)              scaled to size 13.31541pt on input line 77.
+LaTeX Font Info:    Font shape `JT1/hgt/bx/n' in size <14.4> not available
+(Font)              Font shape `JT1/hgt/m/n' tried instead on input line 77.
+LaTeX Font Info:    Font shape `JT1/hgt/m/n' will be
+(Font)              scaled to size 13.31541pt on input line 77.
+LaTeX Font Info:    Font shape `JY1/hgt/bx/n' in size <14.4> not available
+(Font)              Font shape `JY1/hgt/m/n' tried instead on input line 77.
+LaTeX Font Info:    Font shape `JY1/hgt/m/n' will be
+(Font)              scaled to size 13.31541pt on input line 77.
+LaTeX Font Info:    Font shape `JT1/cidj/bx/1' will be
+(Font)              scaled to size 13.31541pt on input line 77.
+LaTeX Font Info:    Font shape `JY1/cidj/bx/1' will be
+(Font)              scaled to size 13.31541pt on input line 77.
+LaTeX Font Info:    Font shape `JT1/hgt/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 77.
+LaTeX Font Info:    Font shape `JY1/hgt/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 77.
+LaTeX Font Info:    Font shape `JT1/hgt/bx/n' in size <10> not available
+(Font)              Font shape `JT1/hgt/m/n' tried instead on input line 77.
+LaTeX Font Info:    Font shape `JT1/hgt/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 77.
+LaTeX Font Info:    Font shape `JY1/hgt/bx/n' in size <10> not available
+(Font)              Font shape `JY1/hgt/m/n' tried instead on input line 77.
+LaTeX Font Info:    Font shape `JY1/hgt/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 77.
+LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
+(Font)              scaled to size 11.09619pt on input line 77.
+LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
+(Font)              scaled to size 11.09619pt on input line 77.
+LaTeX Font Info:    Font shape `JT1/hgt/m/n' will be
+(Font)              scaled to size 11.09619pt on input line 77.
+LaTeX Font Info:    Font shape `JY1/hgt/m/n' will be
+(Font)              scaled to size 11.09619pt on input line 77.
+LaTeX Font Info:    Font shape `JT1/hgt/bx/n' in size <12> not available
+(Font)              Font shape `JT1/hgt/m/n' tried instead on input line 77.
+LaTeX Font Info:    Font shape `JT1/hgt/m/n' will be
+(Font)              scaled to size 11.09619pt on input line 77.
+LaTeX Font Info:    Font shape `JY1/hgt/bx/n' in size <12> not available
+(Font)              Font shape `JY1/hgt/m/n' tried instead on input line 77.
+LaTeX Font Info:    Font shape `JY1/hgt/m/n' will be
+(Font)              scaled to size 11.09619pt on input line 77.
+[1
+
+
+] [2]
+LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
+(Font)              scaled to size 8.32214pt on input line 84.
+LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
+(Font)              scaled to size 8.32214pt on input line 84.
+LaTeX Font Info:    Font shape `JT1/hgt/m/n' will be
+(Font)              scaled to size 8.32214pt on input line 89.
+LaTeX Font Info:    Font shape `JY1/hgt/m/n' will be
+(Font)              scaled to size 8.32214pt on input line 89.
+LaTeX Font Info:    Font shape `JT1/hgt/bx/n' in size <9> not available
+(Font)              Font shape `JT1/hgt/m/n' tried instead on input line 89.
+LaTeX Font Info:    Font shape `JT1/hgt/m/n' will be
+(Font)              scaled to size 8.32214pt on input line 89.
+LaTeX Font Info:    Font shape `JY1/hgt/bx/n' in size <9> not available
+(Font)              Font shape `JY1/hgt/m/n' tried instead on input line 89.
+LaTeX Font Info:    Font shape `JY1/hgt/m/n' will be
+(Font)              scaled to size 8.32214pt on input line 89.
+ [1
+
+
+] [2
+
+]
+LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
+(Font)              scaled to size 19.17792pt on input line 109.
+LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
+(Font)              scaled to size 19.17792pt on input line 109.
+LaTeX Font Info:    Font shape `JT1/hgt/m/n' will be
+(Font)              scaled to size 19.17792pt on input line 109.
+LaTeX Font Info:    Font shape `JY1/hgt/m/n' will be
+(Font)              scaled to size 19.17792pt on input line 109.
+LaTeX Font Info:    Font shape `JT1/hgt/bx/n' in size <20.74> not available
+(Font)              Font shape `JT1/hgt/m/n' tried instead on input line 109.
+LaTeX Font Info:    Font shape `JT1/hgt/m/n' will be
+(Font)              scaled to size 19.17792pt on input line 109.
+LaTeX Font Info:    Font shape `JY1/hgt/bx/n' in size <20.74> not available
+(Font)              Font shape `JY1/hgt/m/n' tried instead on input line 109.
+LaTeX Font Info:    Font shape `JY1/hgt/m/n' will be
+(Font)              scaled to size 19.17792pt on input line 109.
+
+No file main.toc.
+\tf@toc=\write3
+\openout3 = `main.toc'.
+
+[3
+
+
+]
+\openout2 = `first.aux'.
+
+ (./first.tex
+第1章
+)
+Overfull \hbox (34.52086pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/10 Defeating ``COVID-19'' \JY1/hmc/m/n/10 ～ \OT1/cmr/m/n/10 Disco
+vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
+/n/10 ～ 
+ []
+
+[1
+
+
+
+]
+\openout2 = `background.aux'.
+
+ (./background.tex
+第2章
+
+Overfull \hbox (34.52086pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/10 Defeating ``COVID-19'' \JY1/hmc/m/n/10 ～ \OT1/cmr/m/n/10 Disco
+vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
+/n/10 ～ 
+ []
+
+[2
+
+
+
+
+]
+File: images/newspaper1.png Graphic file (type bmp)
+<images/newspaper1.png>
+File: images/newspaper2.png Graphic file (type bmp)
+<images/newspaper2.png>
+File: images/newspaper3.png Graphic file (type bmp)
+<images/newspaper3.png>
+)
+Overfull \hbox (34.52086pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/10 Defeating ``COVID-19'' \JY1/hmc/m/n/10 ～ \OT1/cmr/m/n/10 Disco
+vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
+/n/10 ～ 
+ []
+
+[3]
+\openout2 = `goal.aux'.
+
+ (./goal.tex
+第3章
+File: images/Project_picuture2.png Graphic file (type bmp)
+<images/Project_picuture2.png>
+
+Overfull \hbox (34.52086pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/10 Defeating ``COVID-19'' \JY1/hmc/m/n/10 ～ \OT1/cmr/m/n/10 Disco
+vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
+/n/10 ～ 
+ []
+
+[4
+
+
+
+
+]
+File: images/Project_picuture1.png Graphic file (type bmp)
+<images/Project_picuture1.png>
+File: images/Project_picuture3.png Graphic file (type bmp)
+<images/Project_picuture3.png>
+
+Overfull \hbox (34.52086pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/10 Defeating ``COVID-19'' \JY1/hmc/m/n/10 ～ \OT1/cmr/m/n/10 Disco
+vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
+/n/10 ～ 
+ []
+
+[5]
+Overfull \hbox (34.52086pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/10 Defeating ``COVID-19'' \JY1/hmc/m/n/10 ～ \OT1/cmr/m/n/10 Disco
+vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
+/n/10 ～ 
+ []
+
+[6])
+Overfull \hbox (34.52086pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/10 Defeating ``COVID-19'' \JY1/hmc/m/n/10 ～ \OT1/cmr/m/n/10 Disco
+vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
+/n/10 ～ 
+ []
+
+[7]
+\openout2 = `group_activities.aux'.
+
+ (./group_activities.tex
+第4章
+LaTeX Font Info:    Font shape `JT1/cidj/m/1' will be
+(Font)              scaled to size 9.24683pt on input line 6.
+LaTeX Font Info:    Font shape `JY1/cidj/m/1' will be
+(Font)              scaled to size 9.24683pt on input line 6.
+
+Overfull \hbox (34.52086pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/10 Defeating ``COVID-19'' \JY1/hmc/m/n/10 ～ \OT1/cmr/m/n/10 Disco
+vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
+/n/10 ～ 
+ []
+
+[8
+
+
+
+
+]
+File: images/Project_Research.png Graphic file (type bmp)
+<images/Project_Research.png>
+
+Overfull \hbox (34.52086pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/10 Defeating ``COVID-19'' \JY1/hmc/m/n/10 ～ \OT1/cmr/m/n/10 Disco
+vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
+/n/10 ～ 
+ []
+
+[9])
+Overfull \hbox (34.52086pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/10 Defeating ``COVID-19'' \JY1/hmc/m/n/10 ～ \OT1/cmr/m/n/10 Disco
+vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
+/n/10 ～ 
+ []
+
+[10]
+\openout2 = `middle_announcement.aux'.
+
+ (./middle_announcement.tex
+第5章
+
+Overfull \hbox (34.52086pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/10 Defeating ``COVID-19'' \JY1/hmc/m/n/10 ～ \OT1/cmr/m/n/10 Disco
+vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
+/n/10 ～ 
+ []
+
+[11
+
+
+
+
+])
+Overfull \hbox (34.52086pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/10 Defeating ``COVID-19'' \JY1/hmc/m/n/10 ～ \OT1/cmr/m/n/10 Disco
+vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
+/n/10 ～ 
+ []
+
+[12]
+\openout2 = `result.aux'.
+
+ (./result.tex
+第6章
+
+Overfull \hbox (34.52086pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/10 Defeating ``COVID-19'' \JY1/hmc/m/n/10 ～ \OT1/cmr/m/n/10 Disco
+vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
+/n/10 ～ 
+ []
+
+[13
+
+
+
+
+]
+Overfull \hbox (34.52086pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/10 Defeating ``COVID-19'' \JY1/hmc/m/n/10 ～ \OT1/cmr/m/n/10 Disco
+vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
+/n/10 ～ 
+ []
+
+[14]
+Overfull \hbox (34.52086pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/10 Defeating ``COVID-19'' \JY1/hmc/m/n/10 ～ \OT1/cmr/m/n/10 Disco
+vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
+/n/10 ～ 
+ []
+
+[15]
+Overfull \hbox (34.52086pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/10 Defeating ``COVID-19'' \JY1/hmc/m/n/10 ～ \OT1/cmr/m/n/10 Disco
+vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
+/n/10 ～ 
+ []
+
+[16]
+Overfull \hbox (34.52086pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/10 Defeating ``COVID-19'' \JY1/hmc/m/n/10 ～ \OT1/cmr/m/n/10 Disco
+vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
+/n/10 ～ 
+ []
+
+[17]
+Overfull \hbox (34.52086pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/10 Defeating ``COVID-19'' \JY1/hmc/m/n/10 ～ \OT1/cmr/m/n/10 Disco
+vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
+/n/10 ～ 
+ []
+
+[18])
+Overfull \hbox (34.52086pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/10 Defeating ``COVID-19'' \JY1/hmc/m/n/10 ～ \OT1/cmr/m/n/10 Disco
+vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
+/n/10 ～ 
+ []
+
+[19]
+Underfull \hbox (badness 6808) in paragraph at lines 138--139
+[]\JY1/hmc/m/n/10 第 \OT1/cmr/m/n/10 2 \JY1/hmc/m/n/10 部 基本デ ータと政策動向
+\OT1/cmr/m/n/10 , \JY1/hmc/m/n/10 総務省\OT1/cmr/m/n/10 , 2021/7/10 \JY1/hmc/m/
+n/10 アクセス\OT1/cmr/m/n/10 , [on-line]
+ []
+
+
+Underfull \hbox (badness 1424) in paragraph at lines 142--143
+[]\JY1/hmc/m/n/10 言語処理 \OT1/cmr/m/n/10 100 \JY1/hmc/m/n/10 本ノ ック \OT1/c
+mr/m/n/10 2020 (Rev 2), \JY1/hmc/m/n/10 岡崎直観\OT1/cmr/m/n/10 , 2021/7/16 \JY
+1/hmc/m/n/10 アクセス\OT1/cmr/m/n/10 , [on-line]
+ []
+
+
+Overfull \hbox (34.52086pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/10 Defeating ``COVID-19'' \JY1/hmc/m/n/10 ～ \OT1/cmr/m/n/10 Disco
+vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
+/n/10 ～ 
+ []
+
+[20
+
+
+
+] (./main.aux (./first.aux) (./background.aux) (./goal.aux)
+(./group_activities.aux) (./middle_announcement.aux) (./result.aux))
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3241 strings out of 479488
+ 41297 string characters out of 5874794
+ 352534 words of memory out of 5000000
+ 20906 multiletter control sequences out of 15000+600000
+ 413320 words of font info for 83 fonts, out of 8000000 for 9000
+ 934 hyphenation exceptions out of 8191
+ 68i,5n,74p,1559b,1030s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on main.dvi (25 pages, 88072 bytes).

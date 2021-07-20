@@ -1,0 +1,144 @@
+% プロジェクト学習中間報告書書式テンプレート ver.1.0 (utf-8)
+
+% 両面印刷する場合は `openany' を削除する
+\documentclass[openany, 11pt,papersize,dvipdfm]{jsbook}
+
+% 報告書提出用スタイルファイル
+%\usepackage[final]{funpro}%最終報告書
+\usepackage[middle]{funpro}%中間報告書
+
+% 画像ファイル (EPS, EPDF, PNG) を読み込むために
+\usepackage{graphicx}
+\usepackage{otf}
+
+\def\hissu{\bgroup\color{red}}
+\def\endhissu{\egroup}
+
+% ここから -->
+%\usepackage{calc,ifthen}
+%\newcounter{hoge}
+%\newcommand{\fake}[1]{\whiledo{\thehoge<70}{#1\stepcounter{hoge}}%
+%  \setcounter{hoge}{0}}
+% <-- ここまで 削除してもよい
+
+% 年度の指定
+\thisYear{2021}
+
+% プロジェクト名
+\jProjectName{``コロナ''に打ち勝つ〜過去から発掘して未来へつなぐ新聞ビッグデータ〜}
+
+% [簡易版のプロジェクト名]{正式なプロジェクト名}
+% 欧文のプロジェクト名が極端に長い（2行を超える）場合は、短い記述を
+% 任意引数として渡す。
+%\eProjectName[Making Delicious curry]{How to make delicious curry of Hakodate}
+\eProjectName{Defeating ``COVID-19'' ～ Discovering the past and connecting it to the future - Newspaper Big Data ～}
+
+% <プロジェクト番号>-<グループ名>
+\ProjectNumber{12-B}
+
+% グループ名
+\jGroupName{グループ~B}
+\eGroupName{Group~B}
+
+% プロジェクトリーダ      注意：学籍番号不用
+\ProjectLeader{服部俊紀}{Shunki~Hattori}
+
+% グループリーダ      注意：学籍番号不用
+\GroupLeader  {日置竜輔}{Ryusuke~Hioki}
+
+% メンバー数
+\SumOfMembers{9}
+% グループメンバ      注意：学籍番号不用
+
+\GroupMember  {1}{岩上慎之介}{Shinnosuke~Iwagami}
+\GroupMember  {2}{田中龍仁}{　Ryuji~Tanaka}
+\GroupMember  {3}{保土沢朋和}{Tomowa~Hodosawa}
+\GroupMember  {4}{伊藤太一}{　Taichi~Ito}
+\GroupMember  {5}{小山内魁人}{Kaito~Osanai}
+\GroupMember  {6}{中川翔真}{　Shoma~Nakagawa}
+\GroupMember  {7}{金澤快飛}{　Kaito~Kanazawa}
+
+
+
+%\GroupMember  {9}{未来敬祐}{Keisuke~Mirai}
+
+% 指導教員
+\jadvisor{寺沢憲吾, 美馬のゆり, 角康之, 坂井田瑠衣}
+% 複数人数いる場合はカンマ(,)で区切る。カンマの前後に空白は入れない。
+\eadvisor{Kengo~Terasawa,Noyuri~Mima,Yasuyuki~Sumi,Rui~Sakaida}
+
+% 論文提出日
+\jdate{\today}
+\edate{July~16, 2021}
+
+\begin{document}
+%
+% 表紙
+\maketitle
+
+%======================================================================
+%前付け
+\frontmatter
+
+% 和文概要
+\begin{jabstract}
+　近年、インターネットメディアの台頭もあり、新聞記事は高い信頼性のある情報が含まれているにもかかわらず、人々に十分に届いていない。また、SNSやスマートフォンの普及などを背景に、デジタルデータは急速に増加している。こうした多様かつ大量のデータを効果的に活用することで、新たな価値を生み出すことが可能となった。そこで、本プロジェクトは、北海道新聞の協力のもと、過去130年ほどの新聞記事データを活用し、新聞記事をあまり読むことのない人に向け、アクセスする機会を増やすことを目的とした。
+活動は、新聞記事の見せ方を工夫するグループAと、新聞記事データを活用した言葉遊びゲームを作るグループ Bに分かれて行っている。\\
+　グループBでは、新聞の地域的・歴史的な面に焦点を当て、新聞の記事データから得られる言葉をもとに「クロスワードパズル」や「ヒットアンドブロー」などの言葉遊びゲームを制作する。地方紙が減少し、ニュース砂漠と呼ばれる現象が起こっており、地元の人々が、適切に身近な情報を手に入れる手段が減少している。The New York Times では電子版の新聞にクロスワードパズルを用いることで、新聞の購読者数を安定させた。このように、言葉遊びゲームを通して北海道という地域や時代特有の言葉に触れてもらうことを目的とする。
+% 和文キーワード
+\begin{jkeyword}
+新聞, ビッグデータ, 言葉遊び, 辞書
+\end{jkeyword}
+\bunseki{服部俊紀}
+\end{jabstract}
+
+%英語の概要
+\begin{eabstract} The purpose of this project is to use newspaper article data from the past 130 years or so to increase opportunities for people who
+currently have little access to newspaper articles. Despite the fact that newspaper articles contain highly reliable information, it is
+believed that they are not reaching enough people. Therefore, we will divide into two groups: Group A, which will devise ways to
+present newspaper articles, and Group B, which will create games using newspaper article data.\\
+Group B will focus on the regional and historical aspects of newspapers, and create crossword puzzles, hit-and-blow, and other word games based on words obtained from newspaper article data. With the decline of local newspapers, a phenomenon known as news deserts, local people have fewer and fewer ways to get information that is appropriately familiar to them. The New York Times has stabilized its newspaper subscriptions by using crossword puzzles in the electronic version of its newspaper.
+In this way, through the word game, the aim is to have people come into contact with the language specific to the region and era of Hokkaido.
+% 英文キーワード
+\begin{ekeyword}
+Newspaper, Big Data, Word Play, Data Base
+\end{ekeyword}
+\bunseki{岩上慎之介}
+\end{eabstract}
+
+\tableofcontents% 目次
+
+%======================================================================
+\mainmatter% 本文のはじまり
+
+%各章の.texファイルをここに並べる
+%ファイル名の「.tex」は省略して良い
+\include{first}
+\include{background}
+\include{goal}
+\include{group_activities}
+\include{middle_announcement}
+\include{result}
+
+% 以降、付録(付属資料)であることを示す
+\begin{appendix}
+
+% \chapter{新規習得技術}
+%課題解決過程に習得した技術について解説する。
+
+%付録の終わり
+\end{appendix}
+
+%======================================================================
+%\backmatter
+
+% 参考文献
+\begin{thebibliography}{9}
+ \bibitem{A1} 新聞の発行部数と世帯数の推移, Pressnet 一般社団法人 日本新聞協会,  2021/7/10 アクセス, [online]https://www.pressnet.or.jp/data/circulation/circulation01.php\\
+ \bibitem{A2} 第2部 基本データと政策動向, 総務省, 2021/7/10 アクセス, [online]  https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r02/html/nd252510.html\\
+ \bibitem{A3} ＜フォーカス＞米消えゆく地方紙グロスター郡・26自治体に記者１人　「取材してくれぬ」「不正監視弱まる」 北海道新聞(朝刊) 2019年 5月13日\\
+ \bibitem{A4} 新聞に載らない内緒話, 長野朝日放送, 2021/7/10 アクセス, [online] https://www.abn-tv.co.jp/naisyo/column/ある「廃刊」/\\
+ \bibitem{A5} なぜＮＹタイムズは新聞のデジタル化に唯一成功した？ 紙の売上がまもなく抜かれる, Money Voice, 2021/7/10 アクセス, [online] https://www.mag2.com/p/money/928005\\
+ \bibitem{A6} 言語処理100本ノック 2020 (Rev 2), 岡崎直観, 2021/7/16 アクセス, [online] https://nlp100.github.io/ja/
+\end{thebibliography}
+\end{document}
