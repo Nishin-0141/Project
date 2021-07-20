@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.3-191112-2.6 (utf8.sjis) (TeX Live 2020/W32TeX) (preloaded format=platex 2021.2.28)  20 JUL 2021 14:44
+This is e-pTeX, Version 3.14159265-p3.8.3-191112-2.6 (utf8.sjis) (TeX Live 2020/W32TeX) (preloaded format=platex 2021.2.28)  20 JUL 2021 16:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -132,7 +132,21 @@ File: l3backend-dvips.def 2021-02-18 L3 backend support: dvips
 \g__pdf_backend_link_int=\count195
 \g__pdf_backend_link_sf_int=\count196
 )
-No file main.aux.
+(./main.aux (./first.aux) (./background.aux) (./goal.aux
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+) (./group_activities.aux
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+) (./middle_announcement.aux) (./result.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 74.
@@ -201,7 +215,7 @@ LaTeX Font Info:    Font shape `JY1/hgt/bx/n' in size <12> not available
 (Font)              Font shape `JY1/hgt/m/n' tried instead on input line 77.
 LaTeX Font Info:    Font shape `JY1/hgt/m/n' will be
 (Font)              scaled to size 11.09619pt on input line 77.
-[1
+ [1
 
 
 ] [2]
@@ -210,17 +224,17 @@ LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
 (Font)              scaled to size 8.32214pt on input line 84.
 LaTeX Font Info:    Font shape `JT1/hgt/m/n' will be
-(Font)              scaled to size 8.32214pt on input line 89.
+(Font)              scaled to size 8.32214pt on input line 90.
 LaTeX Font Info:    Font shape `JY1/hgt/m/n' will be
-(Font)              scaled to size 8.32214pt on input line 89.
+(Font)              scaled to size 8.32214pt on input line 90.
 LaTeX Font Info:    Font shape `JT1/hgt/bx/n' in size <9> not available
-(Font)              Font shape `JT1/hgt/m/n' tried instead on input line 89.
+(Font)              Font shape `JT1/hgt/m/n' tried instead on input line 90.
 LaTeX Font Info:    Font shape `JT1/hgt/m/n' will be
-(Font)              scaled to size 8.32214pt on input line 89.
+(Font)              scaled to size 8.32214pt on input line 90.
 LaTeX Font Info:    Font shape `JY1/hgt/bx/n' in size <9> not available
-(Font)              Font shape `JY1/hgt/m/n' tried instead on input line 89.
+(Font)              Font shape `JY1/hgt/m/n' tried instead on input line 90.
 LaTeX Font Info:    Font shape `JY1/hgt/m/n' will be
-(Font)              scaled to size 8.32214pt on input line 89.
+(Font)              scaled to size 8.32214pt on input line 90.
  [1
 
 
@@ -228,30 +242,39 @@ LaTeX Font Info:    Font shape `JY1/hgt/m/n' will be
 
 ]
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 19.17792pt on input line 109.
+(Font)              scaled to size 19.17792pt on input line 110.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 19.17792pt on input line 109.
+(Font)              scaled to size 19.17792pt on input line 110.
 LaTeX Font Info:    Font shape `JT1/hgt/m/n' will be
-(Font)              scaled to size 19.17792pt on input line 109.
+(Font)              scaled to size 19.17792pt on input line 110.
 LaTeX Font Info:    Font shape `JY1/hgt/m/n' will be
-(Font)              scaled to size 19.17792pt on input line 109.
+(Font)              scaled to size 19.17792pt on input line 110.
 LaTeX Font Info:    Font shape `JT1/hgt/bx/n' in size <20.74> not available
-(Font)              Font shape `JT1/hgt/m/n' tried instead on input line 109.
+(Font)              Font shape `JT1/hgt/m/n' tried instead on input line 110.
 LaTeX Font Info:    Font shape `JT1/hgt/m/n' will be
-(Font)              scaled to size 19.17792pt on input line 109.
+(Font)              scaled to size 19.17792pt on input line 110.
 LaTeX Font Info:    Font shape `JY1/hgt/bx/n' in size <20.74> not available
-(Font)              Font shape `JY1/hgt/m/n' tried instead on input line 109.
+(Font)              Font shape `JY1/hgt/m/n' tried instead on input line 110.
 LaTeX Font Info:    Font shape `JY1/hgt/m/n' will be
-(Font)              scaled to size 19.17792pt on input line 109.
-
-No file main.toc.
-\tf@toc=\write3
-\openout3 = `main.toc'.
+(Font)              scaled to size 19.17792pt on input line 110.
+ (./main.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 2.
+LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
+(Font)              scaled to size 6.47278pt on input line 2.
+LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
+(Font)              scaled to size 4.62341pt on input line 2.
 
 [3
 
 
-]
+])
+\tf@toc=\write3
+\openout3 = `main.toc'.
+
+ [4]
 \openout2 = `first.aux'.
 
  (./first.tex
@@ -465,14 +488,14 @@ vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
  []
 
 [19]
-Underfull \hbox (badness 6808) in paragraph at lines 138--139
+Underfull \hbox (badness 6808) in paragraph at lines 139--140
 []\JY1/hmc/m/n/10 第 \OT1/cmr/m/n/10 2 \JY1/hmc/m/n/10 部 基本デ ータと政策動向
 \OT1/cmr/m/n/10 , \JY1/hmc/m/n/10 総務省\OT1/cmr/m/n/10 , 2021/7/10 \JY1/hmc/m/
 n/10 アクセス\OT1/cmr/m/n/10 , [on-line]
  []
 
 
-Underfull \hbox (badness 1424) in paragraph at lines 142--143
+Underfull \hbox (badness 1424) in paragraph at lines 143--144
 []\JY1/hmc/m/n/10 言語処理 \OT1/cmr/m/n/10 100 \JY1/hmc/m/n/10 本ノ ック \OT1/c
 mr/m/n/10 2020 (Rev 2), \JY1/hmc/m/n/10 岡崎直観\OT1/cmr/m/n/10 , 2021/7/16 \JY
 1/hmc/m/n/10 アクセス\OT1/cmr/m/n/10 , [on-line]
@@ -492,16 +515,16 @@ vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
 ] (./main.aux (./first.aux) (./background.aux) (./goal.aux)
 (./group_activities.aux) (./middle_announcement.aux) (./result.aux))
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3241 strings out of 479488
- 41297 string characters out of 5874794
- 352534 words of memory out of 5000000
- 20906 multiletter control sequences out of 15000+600000
- 413320 words of font info for 83 fonts, out of 8000000 for 9000
+ 3267 strings out of 479488
+ 41645 string characters out of 5874794
+ 355121 words of memory out of 5000000
+ 20916 multiletter control sequences out of 15000+600000
+ 413522 words of font info for 85 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
  68i,5n,74p,1559b,1030s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (25 pages, 88072 bytes).
+Output written on main.dvi (26 pages, 102248 bytes).
