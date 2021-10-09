@@ -1,136 +1,131 @@
-This is e-pTeX, Version 3.14159265-p3.8.3-191112-2.6 (utf8.sjis) (TeX Live 2020/W32TeX) (preloaded format=platex 2021.2.28)  21 JUL 2021 01:42
+This is e-pTeX, Version 3.14159265-p3.8.2-190908-2.6 (utf8.euc) (TeX Live 2019/Debian) (preloaded format=platex 2021.7.6)  21 JUL 2021 11:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **main.tex
 (./main.tex
-pLaTeX2e <2020-10-01>+2 (based on LaTeX2e <2020-10-01> patch level 4)
-L3 programming layer <2021-02-18>
-(c:/texlive/2020/texmf-dist/tex/platex/jsclasses/jsbook.cls
-Document Class: jsbook 2020/10/09 jsclasses (okumura, texjporg)
-\jsc@mpt=\dimen154
-\jsc@mmm=\dimen155
+pLaTeX2e <2020-02-02>+2 (based on LaTeX2e <2020-02-02> patch level 2)
+L3 programming layer <2020-02-14>
+(/usr/share/texlive/texmf-dist/tex/platex/jsclasses/jsbook.cls
+Document Class: jsbook 2020/02/02 jsclasses (okumura, texjporg)
+\jsc@mpt=\dimen150
+\jsc@mmm=\dimen151
 \jsc@smallskipamount=\skip47
-LaTeX Info: Redefining \textmc on input line 502.
-LaTeX Info: Redefining \textgt on input line 504.
+LaTeX Info: Redefining \textmc on input line 501.
+LaTeX Info: Redefining \textgt on input line 503.
 \symmincho=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
-(Font)                  JY1/mc/m/n --> JY1/gt/m/n on input line 566.
+(Font)                  JY1/mc/m/n --> JY1/gt/m/n on input line 565.
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 760.
+(Font)              scaled to size 9.60999pt on input line 756.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 760.
-\fullwidth=\dimen156
+(Font)              scaled to size 9.60999pt on input line 756.
+\fullwidth=\dimen152
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 7.68799pt on input line 921.
+(Font)              scaled to size 7.68799pt on input line 917.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 7.68799pt on input line 921.
-\c@part=\count178
-\c@chapter=\count179
-\c@section=\count180
-\c@subsection=\count181
-\c@subsubsection=\count182
-\c@paragraph=\count183
-\c@subparagraph=\count184
-\c@figure=\count185
-\c@table=\count186
+(Font)              scaled to size 7.68799pt on input line 917.
+\c@part=\count166
+\c@chapter=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
-\jsc@tocl@width=\dimen157
-\@lnumwidth=\dimen158
-\bibindent=\dimen159
-(c:/texlive/2020/texmf-dist/tex/platex/jsclasses/jslogo.sty
+\jsc@tocl@width=\dimen153
+\@lnumwidth=\dimen154
+\bibindent=\dimen155
+(/usr/share/texlive/texmf-dist/tex/platex/jsclasses/jslogo.sty
 Package: jslogo 2019/07/25 okumura, texjporg
-LaTeX Info: Redefining \TeX on input line 82.
-LaTeX Info: Redefining \LaTeX on input line 135.
-LaTeX Info: Redefining \LaTeXe on input line 188.
+LaTeX Info: Redefining \TeX on input line 94.
+LaTeX Info: Redefining \LaTeX on input line 147.
+LaTeX Info: Redefining \LaTeXe on input line 200.
 )
-\heisei=\count187
+\heisei=\count175
 ) (./funpro.sty
 Package: funpro 2004/11/25 v2.0 Thor
 
-(c:/texlive/2020/texmf-dist/tex/latex/url/url.sty
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 ) (./okumacro.sty
 Package: okumacro 2004/08/23 okumura
-\@scw=\dimen160
-\scb@x=\box64
-\EXAMPLEWIDTH=\dimen161
-\shaderule=\dimen162
+\@scw=\dimen156
+\scb@x=\box61
+\EXAMPLEWIDTH=\dimen157
+\shaderule=\dimen158
 )
-(c:/texlive/2020/texmf-dist/tex/latex/tools/verbatim.sty
-Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks16
-\verbatim@line=\toks17
+(/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks15
+\verbatim@line=\toks16
 \verbatim@in@stream=\read2
 )
-\fullwidth=\dimen163
-\@members=\count188
+\fullwidth=\dimen159
+\@members=\count176
 )
-(c:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
 
-(c:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks18
+\KV@toks@=\toks17
 )
-(c:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
 
-(c:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: dvipdfmx.def on input line 105.
 
-(c:/texlive/2020/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
-File: dvipdfmx.def 2020/08/26 v5.0h Graphics/color driver for dvipdfmx
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+File: dvipdfmx.def 2017/06/24 v5.0g Graphics/color driver for dvipdfmx
 ))
-\Gin@req@height=\dimen164
-\Gin@req@width=\dimen165
+\Gin@req@height=\dimen160
+\Gin@req@width=\dimen161
 )
-(c:/texlive/2020/texmf-dist/tex/platex/japanese-otf-uptex/otf.sty
-Package: otf 2019/04/01 v1.7b8 psitau, u0.26 ttk
-LaTeX Font Info:    Redeclaring symbol font `mincho' on input line 322.
+(/usr/share/texlive/texmf-dist/tex/platex/japanese-otf-uptex/otf.sty
+Package: otf 2019/04/01 v1.7b8 psitau, u0.24 ttk
+LaTeX Font Info:    Redeclaring symbol font `mincho' on input line 314.
 LaTeX Font Info:    Overwriting symbol font `mincho' in version `normal'
-(Font)                  JY1/mc/m/n --> JY1/hmc/m/n on input line 322.
+(Font)                  JY1/mc/m/n --> JY1/hmc/m/n on input line 314.
 LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
-(Font)                  JY1/gt/m/n --> JY1/hmc/m/n on input line 322.
+(Font)                  JY1/gt/m/n --> JY1/hmc/m/n on input line 314.
 LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
-(Font)                  JY1/hmc/m/n --> JY1/hmc/bx/n on input line 324.
-LaTeX Font Info:    Redeclaring math alphabet \mathgt on input line 325.
+(Font)                  JY1/hmc/m/n --> JY1/hmc/bx/n on input line 316.
+LaTeX Font Info:    Redeclaring math alphabet \mathgt on input line 317.
 LaTeX Font Info:    Overwriting math alphabet `\mathgt' in version `normal'
-(Font)                  JY1/gt/m/n --> JY1/hgt/m/n on input line 325.
+(Font)                  JY1/gt/m/n --> JY1/hgt/m/n on input line 317.
 LaTeX Font Info:    Overwriting math alphabet `\mathgt' in version `bold'
-(Font)                  JY1/gt/m/n --> JY1/hgt/m/n on input line 325.
+(Font)                  JY1/gt/m/n --> JY1/hgt/m/n on input line 317.
 LaTeX Font Info:    Overwriting math alphabet `\mathgt' in version `bold'
-(Font)                  JY1/hgt/m/n --> JY1/hgt/bx/n on input line 326.
+(Font)                  JY1/hgt/m/n --> JY1/hgt/bx/n on input line 318.
 
-(c:/texlive/2020/texmf-dist/tex/platex/japanese-otf/ajmacros.sty
+(/usr/share/texlive/texmf-dist/tex/platex/japanese-otf/ajmacros.sty
 Package: ajmacros 2019/04/01 21:00 iNOUE Koich! <inoue@ma.ns.musashi-tech.ac.jp
 >
-\@tempcntc=\count189
-\@tempcntd=\count190
-\@tempcnte=\count191
-\@tempcntf=\count192
+\@tempcntc=\count177
+\@tempcntd=\count178
+\@tempcnte=\count179
+\@tempcntf=\count180
 ))
-LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 9.24683pt on input line 74.
-LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 9.24683pt on input line 74.
-
-(c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
-File: l3backend-dvips.def 2021-02-18 L3 backend support: dvips
-\l__pdf_internal_box=\box65
-\g__pdf_backend_object_int=\count193
-\l__pdf_backend_content_box=\box66
-\l__pdf_backend_model_box=\box67
-\g__pdf_backend_annotation_int=\count194
-\g__pdf_backend_link_int=\count195
-\g__pdf_backend_link_sf_int=\count196
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
+File: l3backend-dvips.def 2020-02-03 L3 backend support: dvips
+\l__pdf_internal_box=\box62
+\g__pdf_backend_object_int=\count181
+\l__pdf_backend_content_box=\box63
+\l__pdf_backend_model_box=\box64
+\g__pdf_backend_annotation_int=\count182
+\g__pdf_backend_link_int=\count183
+\g__pdf_backend_link_sf_int=\count184
 )
 (./main.aux (./first.aux) (./background.aux) (./goal.aux
 
@@ -168,6 +163,10 @@ LaTeX Font Info:    ... okay on input line 74.
 LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 74.
 LaTeX Font Info:    ... okay on input line 74.
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 74.
+LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 74.
+LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
 (Font)              scaled to size 13.31541pt on input line 77.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
 (Font)              scaled to size 13.31541pt on input line 77.
@@ -175,6 +174,11 @@ LaTeX Font Info:    Font shape `JT1/hgt/m/n' will be
 (Font)              scaled to size 13.31541pt on input line 77.
 LaTeX Font Info:    Font shape `JY1/hgt/m/n' will be
 (Font)              scaled to size 13.31541pt on input line 77.
+
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 77.
+
 LaTeX Font Info:    Font shape `JT1/hgt/bx/n' in size <14.4> not available
 (Font)              Font shape `JT1/hgt/m/n' tried instead on input line 77.
 LaTeX Font Info:    Font shape `JT1/hgt/m/n' will be
@@ -187,6 +191,10 @@ LaTeX Font Info:    Font shape `JT1/hgt/m/n' will be
 (Font)              scaled to size 9.24683pt on input line 77.
 LaTeX Font Info:    Font shape `JY1/hgt/m/n' will be
 (Font)              scaled to size 9.24683pt on input line 77.
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 77.
+
 LaTeX Font Info:    Font shape `JT1/hgt/bx/n' in size <10> not available
 (Font)              Font shape `JT1/hgt/m/n' tried instead on input line 77.
 LaTeX Font Info:    Font shape `JT1/hgt/m/n' will be
@@ -203,6 +211,10 @@ LaTeX Font Info:    Font shape `JT1/hgt/m/n' will be
 (Font)              scaled to size 11.09619pt on input line 77.
 LaTeX Font Info:    Font shape `JY1/hgt/m/n' will be
 (Font)              scaled to size 11.09619pt on input line 77.
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 77.
+
 LaTeX Font Info:    Font shape `JT1/hgt/bx/n' in size <12> not available
 (Font)              Font shape `JT1/hgt/m/n' tried instead on input line 77.
 LaTeX Font Info:    Font shape `JT1/hgt/m/n' will be
@@ -211,10 +223,58 @@ LaTeX Font Info:    Font shape `JY1/hgt/bx/n' in size <12> not available
 (Font)              Font shape `JY1/hgt/m/n' tried instead on input line 77.
 LaTeX Font Info:    Font shape `JY1/hgt/m/n' will be
 (Font)              scaled to size 11.09619pt on input line 77.
- [1
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 77.
+
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 77.
+
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 77.
+
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 77.
+
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 77.
+
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 77.
+
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 77.
+
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 77.
+
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 77.
+
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 77.
+
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 77.
+
+[1
 
 
 ] [2]
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 84.
+
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
 (Font)              scaled to size 8.32214pt on input line 84.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
@@ -223,6 +283,10 @@ LaTeX Font Info:    Font shape `JT1/hgt/m/n' will be
 (Font)              scaled to size 8.32214pt on input line 91.
 LaTeX Font Info:    Font shape `JY1/hgt/m/n' will be
 (Font)              scaled to size 8.32214pt on input line 91.
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 91.
+
 LaTeX Font Info:    Font shape `JT1/hgt/bx/n' in size <9> not available
 (Font)              Font shape `JT1/hgt/m/n' tried instead on input line 91.
 LaTeX Font Info:    Font shape `JT1/hgt/m/n' will be
@@ -231,12 +295,29 @@ LaTeX Font Info:    Font shape `JY1/hgt/bx/n' in size <9> not available
 (Font)              Font shape `JY1/hgt/m/n' tried instead on input line 91.
 LaTeX Font Info:    Font shape `JY1/hgt/m/n' will be
 (Font)              scaled to size 8.32214pt on input line 91.
- [1
+[1
 
-
-] [2
 
 ]
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 98.
+
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 104.
+
+[2
+
+]
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 110.
+
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 110.
+
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
 (Font)              scaled to size 19.17792pt on input line 110.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
@@ -245,6 +326,10 @@ LaTeX Font Info:    Font shape `JT1/hgt/m/n' will be
 (Font)              scaled to size 19.17792pt on input line 110.
 LaTeX Font Info:    Font shape `JY1/hgt/m/n' will be
 (Font)              scaled to size 19.17792pt on input line 110.
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 110.
+
 LaTeX Font Info:    Font shape `JT1/hgt/bx/n' in size <20.74> not available
 (Font)              Font shape `JT1/hgt/m/n' tried instead on input line 110.
 LaTeX Font Info:    Font shape `JT1/hgt/m/n' will be
@@ -253,7 +338,11 @@ LaTeX Font Info:    Font shape `JY1/hgt/bx/n' in size <20.74> not available
 (Font)              Font shape `JY1/hgt/m/n' tried instead on input line 110.
 LaTeX Font Info:    Font shape `JY1/hgt/m/n' will be
 (Font)              scaled to size 19.17792pt on input line 110.
- (./main.toc
+(./main.toc
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 1.
+
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -263,10 +352,34 @@ LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
 (Font)              scaled to size 4.62341pt on input line 2.
 
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 4.
+
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 10.
+
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 18.
+
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 25.
+
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 29.
+
 [3
 
 
-])
+]
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 42.
+
+)
 \tf@toc=\write3
 \openout3 = `main.toc'.
 
@@ -275,6 +388,22 @@ LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
 
  (./first.tex
 第1章
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 1.
+
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 1.
+
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 4.
+
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 10.
+
 )
 Overfull \hbox (34.52086pt too wide) has occurred while \output is active
 \OT1/cmr/m/n/10 Defeating ``COVID-19'' \JY1/hmc/m/n/10 ～ \OT1/cmr/m/n/10 Disco
@@ -292,6 +421,26 @@ vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
  (./background.tex
 第2章
 
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 1.
+
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 1.
+
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 3.
+
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 9.
+
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 12.
+
+
 Overfull \hbox (34.52086pt too wide) has occurred while \output is active
 \OT1/cmr/m/n/10 Defeating ``COVID-19'' \JY1/hmc/m/n/10 ～ \OT1/cmr/m/n/10 Disco
 vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
@@ -302,7 +451,6 @@ vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
 
 
 
-
 ]
 File: images/newspaper4.png Graphic file (type bmp)
 <images/newspaper4.png>
@@ -310,6 +458,15 @@ File: images/newspaper3.png Graphic file (type bmp)
 <images/newspaper3.png>
 File: images/newspaper2.png Graphic file (type bmp)
 <images/newspaper2.png>
+
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 37.
+
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 41.
+
 )
 Overfull \hbox (34.52086pt too wide) has occurred while \output is active
 \OT1/cmr/m/n/10 Defeating ``COVID-19'' \JY1/hmc/m/n/10 ～ \OT1/cmr/m/n/10 Disco
@@ -322,6 +479,26 @@ vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
 
  (./goal.tex
 第3章
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 1.
+
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 1.
+
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 3.
+
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 9.
+
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 10.
+
 File: images/Project_picuture2.png Graphic file (type bmp)
 <images/Project_picuture2.png>
 
@@ -332,7 +509,6 @@ vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
  []
 
 [4
-
 
 
 
@@ -349,13 +525,31 @@ vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
  []
 
 [5]
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 53.
+
+
 Overfull \hbox (34.52086pt too wide) has occurred while \output is active
 \OT1/cmr/m/n/10 Defeating ``COVID-19'' \JY1/hmc/m/n/10 ～ \OT1/cmr/m/n/10 Disco
 vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
 /n/10 ～ 
  []
 
-[6])
+[6]
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 59.
+
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 60.
+
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 66.
+
+)
 Overfull \hbox (34.52086pt too wide) has occurred while \output is active
 \OT1/cmr/m/n/10 Defeating ``COVID-19'' \JY1/hmc/m/n/10 ～ \OT1/cmr/m/n/10 Disco
 vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
@@ -368,6 +562,22 @@ vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
  (./group_activities.tex
 第4章
 
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 1.
+
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 1.
+
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 3.
+
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 8.
+
+
 Overfull \hbox (34.52086pt too wide) has occurred while \output is active
 \OT1/cmr/m/n/10 Defeating ``COVID-19'' \JY1/hmc/m/n/10 ～ \OT1/cmr/m/n/10 Disco
 vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
@@ -378,10 +588,22 @@ vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
 
 
 
-
 ]
 File: images/Project_Research.png Graphic file (type bmp)
 <images/Project_Research.png>
+
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 21.
+
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 27.
+
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 32.
+
 
 Overfull \hbox (34.52086pt too wide) has occurred while \output is active
 \OT1/cmr/m/n/10 Defeating ``COVID-19'' \JY1/hmc/m/n/10 ～ \OT1/cmr/m/n/10 Disco
@@ -389,7 +611,12 @@ vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
 /n/10 ～ 
  []
 
-[9])
+[9]
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 38.
+
+)
 Overfull \hbox (34.52086pt too wide) has occurred while \output is active
 \OT1/cmr/m/n/10 Defeating ``COVID-19'' \JY1/hmc/m/n/10 ～ \OT1/cmr/m/n/10 Disco
 vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
@@ -402,6 +629,22 @@ vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
  (./middle_announcement.tex
 第5章
 
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 1.
+
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 1.
+
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 3.
+
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 10.
+
+
 Overfull \hbox (34.52086pt too wide) has occurred while \output is active
 \OT1/cmr/m/n/10 Defeating ``COVID-19'' \JY1/hmc/m/n/10 ～ \OT1/cmr/m/n/10 Disco
 vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
@@ -412,8 +655,12 @@ vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
 
 
 
+]
 
-])
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 16.
+
+)
 Overfull \hbox (34.52086pt too wide) has occurred while \output is active
 \OT1/cmr/m/n/10 Defeating ``COVID-19'' \JY1/hmc/m/n/10 ～ \OT1/cmr/m/n/10 Disco
 vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
@@ -426,6 +673,22 @@ vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
  (./result.tex
 第6章
 
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 1.
+
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 1.
+
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 2.
+
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 6.
+
+
 Overfull \hbox (34.52086pt too wide) has occurred while \output is active
 \OT1/cmr/m/n/10 Defeating ``COVID-19'' \JY1/hmc/m/n/10 ～ \OT1/cmr/m/n/10 Disco
 vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
@@ -436,8 +699,20 @@ vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
 
 
 
-
 ]
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 12.
+
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 14.
+
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 21.
+
+
 Overfull \hbox (34.52086pt too wide) has occurred while \output is active
 \OT1/cmr/m/n/10 Defeating ``COVID-19'' \JY1/hmc/m/n/10 ～ \OT1/cmr/m/n/10 Disco
 vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
@@ -445,6 +720,15 @@ vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
  []
 
 [14]
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 26.
+
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 32.
+
+
 Overfull \hbox (34.52086pt too wide) has occurred while \output is active
 \OT1/cmr/m/n/10 Defeating ``COVID-19'' \JY1/hmc/m/n/10 ～ \OT1/cmr/m/n/10 Disco
 vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
@@ -452,6 +736,11 @@ vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
  []
 
 [15]
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 39.
+
+
 Overfull \hbox (34.52086pt too wide) has occurred while \output is active
 \OT1/cmr/m/n/10 Defeating ``COVID-19'' \JY1/hmc/m/n/10 ～ \OT1/cmr/m/n/10 Disco
 vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
@@ -459,6 +748,15 @@ vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
  []
 
 [16]
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 44.
+
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 51.
+
+
 Overfull \hbox (34.52086pt too wide) has occurred while \output is active
 \OT1/cmr/m/n/10 Defeating ``COVID-19'' \JY1/hmc/m/n/10 ～ \OT1/cmr/m/n/10 Disco
 vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
@@ -466,13 +764,23 @@ vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
  []
 
 [17]
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 56.
+
+
 Overfull \hbox (34.52086pt too wide) has occurred while \output is active
 \OT1/cmr/m/n/10 Defeating ``COVID-19'' \JY1/hmc/m/n/10 ～ \OT1/cmr/m/n/10 Disco
 vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
 /n/10 ～ 
  []
 
-[18])
+[18]
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 60.
+
+)
 Overfull \hbox (34.52086pt too wide) has occurred while \output is active
 \OT1/cmr/m/n/10 Defeating ``COVID-19'' \JY1/hmc/m/n/10 ～ \OT1/cmr/m/n/10 Disco
 vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
@@ -480,6 +788,11 @@ vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
  []
 
 [19]
+
+LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
+(Font)              using `JY1/hgt/bx/n' instead on input line 137.
+
+
 Underfull \hbox (badness 6808) in paragraph at lines 139--140
 []\JY1/hmc/m/n/10 第 \OT1/cmr/m/n/10 2 \JY1/hmc/m/n/10 部 基本デ ータと政策動向
 \OT1/cmr/m/n/10 , \JY1/hmc/m/n/10 総務省\OT1/cmr/m/n/10 , 2021/7/10 \JY1/hmc/m/
@@ -503,7 +816,6 @@ vering the past and connecting it to the future - Newspaper Big Data \JY1/hmc/m
 [20
 
 
-
 ] (./main.aux (./first.aux) (./background.aux) (./goal.aux)
 (./group_activities.aux) (./middle_announcement.aux) (./result.aux))
 
@@ -511,12 +823,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3257 strings out of 479488
- 41522 string characters out of 5874794
- 355117 words of memory out of 5000000
- 20910 multiletter control sequences out of 15000+600000
- 413450 words of font info for 81 fonts, out of 8000000 for 9000
+ 3200 strings out of 481768
+ 39996 string characters out of 5933621
+ 295042 words of memory out of 5000000
+ 18586 multiletter control sequences out of 15000+600000
+ 542358 words of font info for 78 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 68i,5n,74p,1555b,1030s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,5n,27p,1555b,992s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (26 pages, 104556 bytes).
+Output written on main.dvi (26 pages, 104512 bytes).
